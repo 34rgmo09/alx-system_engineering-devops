@@ -1,3 +1,2 @@
-### Web Server
-This project contains web server tasks such as scp file transfer to and from my server and my
-local arch linux
+# 0x0C-web_server
+to be done.
